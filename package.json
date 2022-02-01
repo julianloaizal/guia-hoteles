@@ -1,0 +1,29 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Proyecto de la especialización desarrollo de software",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianloaizal/guia-hoteles.git"
+  },
+  "author": "Julián Loaiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianloaizal/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/julianloaizal/guia-hoteles#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "startbootstrap-shop-homepage": "^5.0.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
